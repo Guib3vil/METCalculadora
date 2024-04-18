@@ -1,0 +1,7 @@
+{
+  "name": "METCalculadora",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
